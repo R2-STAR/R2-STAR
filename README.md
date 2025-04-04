@@ -10,7 +10,7 @@ I love to join different communities and take part in hachathons and Tech webina
 I have a huge interest in cybersecurity and love reading about integrating AI in Cybersecurity field
 
 
- *Reach me at*: Twitter(@ridhimab1947), instagram(ree_._._._.)
+ *Reach me at*: Twitter(@ridhimab1947)
  *Pronouns*: She/Her
  
 
