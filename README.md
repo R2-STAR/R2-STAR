@@ -12,6 +12,5 @@ I have a huge interest in cybersecurity and love reading about integrating AI in
 
  *Reach me at*: Twitter(@ridhimab1947)
  *Pronouns*: She/Her
- ![Metrics](github-metrics.svg)
  
 
