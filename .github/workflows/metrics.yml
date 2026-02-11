@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: YOUR_USERNAME_HERE  # <--- CHANGE THIS TO YOUR ACTUAL USERNAME
+          user: R2-STAR
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
